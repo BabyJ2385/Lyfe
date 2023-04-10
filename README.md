@@ -1,8 +1,8 @@
 # Lyfe
-{
+Jeanne {
   "ns": "yt",
   "el": "detailpage",
-  "cpn": "Jchnyq4zsc7Jrnm-",
+
   "ver": 2,
   "cmt": "40.261",
   "fmt": "243",
@@ -45,8 +45,7 @@
   "vbu": "0.000-40.261",
   "vpa": "1",
   "vsk": "0",
-  "ven": "1",
-  "vpr": "1.25",
+I   "vpr": "1.25",
   "vrs": "4",
   "vns": "2",
   "vec": "null",
@@ -84,3 +83,4 @@
   "debug_playbackQuality": "medium",
   "debug_date": "Mon Mar 27 2023 23:20:31 GMT-0500 (Central Daylight Time)"
 }
+65015741542
